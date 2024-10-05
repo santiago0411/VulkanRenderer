@@ -1,0 +1,6 @@
+[submodule "VulkanRenderer/vendor/GLFW"]
+	path = VulkanRenderer/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "VulkanRenderer/vendor/glm"]
+	path = VulkanRenderer/vendor/glm
+	url = https://github.com/g-truc/glm
